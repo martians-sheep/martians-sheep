@@ -2,6 +2,6 @@
 
 [![/dev/null activity](https://dev-null.sh/@martians-sheep/graph.svg)](https://dev-null.sh/@martians-sheep)
 
-## Languages
+## よく使う言語
 
-TypeScript, Python, Rust, Swift
+TypeScript、Python、Rust、Swift
